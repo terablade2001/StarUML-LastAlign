@@ -1,0 +1,57 @@
+{
+  "menu": [
+    {
+      "id": "tools",
+      "submenu": [
+        {
+          "label": "Last Align",
+          "id": "tools.LastAlign",
+          "submenu": [
+            {
+              "label": "Horizontal", 
+              "id": "tool.LastAlign.Horizontal",
+              "submenu": [
+                {
+                  "label": "Align Left",
+                  "id": "tool.LastAlign.Horizontal.Left",
+                  "command": "LastAlign:horizAlignLeft"
+                },
+                {
+                  "label": "Align Center",
+                  "id": "tool.LastAlign.Horizontal.Center",
+                  "command": "LastAlign:horizAlignCenter"
+                },
+                {
+                  "label": "Align Right",
+                  "id": "tool.LastAlign.Horizontal.Right",
+                  "command": "LastAlign:horizAlignRight"
+                }
+              ]
+            },
+            {
+              "label": "Vertical", 
+              "id": "tool.LastAlign.Vertical",
+              "submenu": [
+                {
+                  "label": "Align Top",
+                  "id": "tool.LastAlign.Vertical.Top",
+                  "command": "LastAlign:vertAlignTop"
+                },
+                {
+                  "label": "Align Middle",
+                  "id": "tool.LastAlign.Vertical.Middle",
+                  "command": "LastAlign:vertAlignMiddle"
+                },
+                {
+                  "label": "Align Bottom",
+                  "id": "tool.LastAlign.Vertical.Bottom",
+                  "command": "LastAlign:vertAlignBottom"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
