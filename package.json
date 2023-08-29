@@ -3,7 +3,7 @@
   "title": "Last Align",
   "description": "Aling selected elements/views, based on the last one selected. The last one is not moved, but it's used as a guide instead.",
   "homepage": "https://github.com/terablade2001/StarUML-LastAlign",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "keywords": ["Align", "Last", "Element", "View", "Model", "Diagram"],
   "author": {
     "name": "Vasileios Pothos",

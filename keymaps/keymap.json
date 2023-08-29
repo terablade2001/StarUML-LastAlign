@@ -1,0 +1,8 @@
+{
+  "ctrl-shift-1":"LastAlign:horizAlignLeft",
+  "ctrl-shift-2":"LastAlign:horizAlignCenter",
+  "ctrl-shift-3":"LastAlign:horizAlignRight",
+  "alt-shift-1":"LastAlign:vertAlignTop",
+  "alt-shift-2":"LastAlign:vertAlignMiddle",
+  "alt-shift-3":"LastAlign:vertAlignBottom"
+}
